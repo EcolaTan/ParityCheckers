@@ -1,5 +1,5 @@
 # Parity Checkers
-A turn based game where each player is given 5 pieces and the goal is to eat all enemy pieces or capture enemy bases
+A turn based game where each player is given 5 pieces and the goal is to eat all enemy pieces or capture enemy bases. This was made as a requirement for my discrete math class.
 
 ## Rules<br>
 -Players can move forward, left-diagonal, and right-diagonal<br>
