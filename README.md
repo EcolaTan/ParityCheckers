@@ -1,4 +1,4 @@
-# Weird Checkers
+# Parity Checkers
 A turn based game where each player is given 5 pieces and the goal is to eat all enemy pieces or capture enemy bases
 
 ## Rules<br>
